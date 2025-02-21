@@ -1,0 +1,1 @@
+Projeto que instalou a biblioteca ChemPy, a partir da ativação da venv
